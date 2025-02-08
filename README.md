@@ -40,7 +40,7 @@ I'm a **Full-Stack Developer** with a background in **Economics and Finance**, c
 
 ### 🤝 **Socials**
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/stefanodimichele/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
