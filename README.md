@@ -25,7 +25,7 @@ I'm a **Full-Stack Developer** with a background in **Economics and Finance**, c
 🌱 **Currently Learning**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,graphql,vue" />
+    <img src="https://skillicons.dev/icons?i=ts,graphql,vue,tailwind" />
   </a>
 </p>
 
